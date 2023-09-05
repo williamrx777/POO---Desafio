@@ -1,4 +1,4 @@
-public interface Produto {
+public interface SmartPhone {
 
     void ReprodutorMusical();
     void AparelhoTelefonico();
